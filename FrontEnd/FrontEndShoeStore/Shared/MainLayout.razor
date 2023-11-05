@@ -1,0 +1,21 @@
+﻿@inherits LayoutComponentBase
+
+<div class="root">
+    <div class="Header">
+        <Header></Header>
+    </div>
+    <main>
+        <article  class="content">
+            @Body
+        </article>
+    </main>
+    <div class="Footer">
+        <Footer/>
+    </div>
+</div>
+
+<style>
+    .content{
+        min-height: 100vh;
+    }
+</style>
