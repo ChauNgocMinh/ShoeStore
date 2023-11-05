@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\OneDrive\\Máy tính\\FrontEndShoeStore\\FrontEndShoeStore\\FrontEndShoeStore.csproj": {}
+    "C:\\Users\\ASUS\\OneDrive\\Máy tính\\ShoeStore\\FrontEnd\\FrontEndShoeStore\\FrontEndShoeStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\OneDrive\\Máy tính\\FrontEndShoeStore\\FrontEndShoeStore\\FrontEndShoeStore.csproj": {
+    "C:\\Users\\ASUS\\OneDrive\\Máy tính\\ShoeStore\\FrontEnd\\FrontEndShoeStore\\FrontEndShoeStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\FrontEndShoeStore\\FrontEndShoeStore\\FrontEndShoeStore.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\ShoeStore\\FrontEnd\\FrontEndShoeStore\\FrontEndShoeStore.csproj",
         "projectName": "FrontEndShoeStore",
-        "projectPath": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\FrontEndShoeStore\\FrontEndShoeStore\\FrontEndShoeStore.csproj",
+        "projectPath": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\ShoeStore\\FrontEnd\\FrontEndShoeStore\\FrontEndShoeStore.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\FrontEndShoeStore\\FrontEndShoeStore\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\ShoeStore\\FrontEnd\\FrontEndShoeStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages"

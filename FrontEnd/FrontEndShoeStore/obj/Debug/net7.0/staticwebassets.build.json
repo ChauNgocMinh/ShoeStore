@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "x3tO3/oiLO8kakS/IKRaSi9WUA/JLXMQLmxNAUbGmG4=",
+  "Hash": "NaSbq4pbv3GqCyr1SFjgeTzvQwGM9WUegVywgRREXgY=",
   "Source": "FrontEndShoeStore",
   "BasePath": "_content/FrontEndShoeStore",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "FrontEndShoeStore\\wwwroot",
       "Source": "FrontEndShoeStore",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\FrontEndShoeStore\\FrontEndShoeStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\ShoeStore\\FrontEnd\\FrontEndShoeStore\\wwwroot\\",
       "BasePath": "_content/FrontEndShoeStore",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\FrontEndShoeStore\\FrontEndShoeStore\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\ShoeStore\\FrontEnd\\FrontEndShoeStore\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "FrontEndShoeStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\FrontEndShoeStore\\FrontEndShoeStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\ShoeStore\\FrontEnd\\FrontEndShoeStore\\wwwroot\\",
       "BasePath": "_content/FrontEndShoeStore",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\FrontEndShoeStore\\FrontEndShoeStore\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\ShoeStore\\FrontEnd\\FrontEndShoeStore\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "FrontEndShoeStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\FrontEndShoeStore\\FrontEndShoeStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\ShoeStore\\FrontEnd\\FrontEndShoeStore\\wwwroot\\",
       "BasePath": "_content/FrontEndShoeStore",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\FrontEndShoeStore\\FrontEndShoeStore\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\ShoeStore\\FrontEnd\\FrontEndShoeStore\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "FrontEndShoeStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\FrontEndShoeStore\\FrontEndShoeStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\ShoeStore\\FrontEnd\\FrontEndShoeStore\\wwwroot\\",
       "BasePath": "_content/FrontEndShoeStore",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\FrontEndShoeStore\\FrontEndShoeStore\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\ShoeStore\\FrontEnd\\FrontEndShoeStore\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "FrontEndShoeStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\FrontEndShoeStore\\FrontEndShoeStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\ShoeStore\\FrontEnd\\FrontEndShoeStore\\wwwroot\\",
       "BasePath": "_content/FrontEndShoeStore",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\FrontEndShoeStore\\FrontEndShoeStore\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\ShoeStore\\FrontEnd\\FrontEndShoeStore\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "FrontEndShoeStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\FrontEndShoeStore\\FrontEndShoeStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\ShoeStore\\FrontEnd\\FrontEndShoeStore\\wwwroot\\",
       "BasePath": "_content/FrontEndShoeStore",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\FrontEndShoeStore\\FrontEndShoeStore\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\ShoeStore\\FrontEnd\\FrontEndShoeStore\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "FrontEndShoeStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\FrontEndShoeStore\\FrontEndShoeStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\ShoeStore\\FrontEnd\\FrontEndShoeStore\\wwwroot\\",
       "BasePath": "_content/FrontEndShoeStore",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\FrontEndShoeStore\\FrontEndShoeStore\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\ShoeStore\\FrontEnd\\FrontEndShoeStore\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "FrontEndShoeStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\FrontEndShoeStore\\FrontEndShoeStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\ShoeStore\\FrontEnd\\FrontEndShoeStore\\wwwroot\\",
       "BasePath": "_content/FrontEndShoeStore",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\FrontEndShoeStore\\FrontEndShoeStore\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\ShoeStore\\FrontEnd\\FrontEndShoeStore\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "FrontEndShoeStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\FrontEndShoeStore\\FrontEndShoeStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\ShoeStore\\FrontEnd\\FrontEndShoeStore\\wwwroot\\",
       "BasePath": "_content/FrontEndShoeStore",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\FrontEndShoeStore\\FrontEndShoeStore\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\ShoeStore\\FrontEnd\\FrontEndShoeStore\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "FrontEndShoeStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\FrontEndShoeStore\\FrontEndShoeStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\ShoeStore\\FrontEnd\\FrontEndShoeStore\\wwwroot\\",
       "BasePath": "_content/FrontEndShoeStore",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\FrontEndShoeStore\\FrontEndShoeStore\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\ShoeStore\\FrontEnd\\FrontEndShoeStore\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "FrontEndShoeStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\FrontEndShoeStore\\FrontEndShoeStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\ShoeStore\\FrontEnd\\FrontEndShoeStore\\wwwroot\\",
       "BasePath": "_content/FrontEndShoeStore",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\FrontEndShoeStore\\FrontEndShoeStore\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\ShoeStore\\FrontEnd\\FrontEndShoeStore\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "FrontEndShoeStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\FrontEndShoeStore\\FrontEndShoeStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\ShoeStore\\FrontEnd\\FrontEndShoeStore\\wwwroot\\",
       "BasePath": "_content/FrontEndShoeStore",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\FrontEndShoeStore\\FrontEndShoeStore\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\ShoeStore\\FrontEnd\\FrontEndShoeStore\\wwwroot\\css\\site.css",
       "SourceId": "FrontEndShoeStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\FrontEndShoeStore\\FrontEndShoeStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\ShoeStore\\FrontEnd\\FrontEndShoeStore\\wwwroot\\",
       "BasePath": "_content/FrontEndShoeStore",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\FrontEndShoeStore\\FrontEndShoeStore\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\ShoeStore\\FrontEnd\\FrontEndShoeStore\\wwwroot\\favicon.png",
       "SourceId": "FrontEndShoeStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\FrontEndShoeStore\\FrontEndShoeStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\ShoeStore\\FrontEnd\\FrontEndShoeStore\\wwwroot\\",
       "BasePath": "_content/FrontEndShoeStore",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
