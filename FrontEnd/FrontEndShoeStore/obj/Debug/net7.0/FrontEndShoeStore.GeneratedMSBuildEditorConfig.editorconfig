@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FrontEndShoeStore
 build_property.RootNamespace = FrontEndShoeStore
-build_property.ProjectDir = C:\Users\ASUS\OneDrive\Máy tính\ShoeStore\FrontEnd\FrontEndShoeStore\
+build_property.ProjectDir = c:\Users\ASUS\OneDrive\Máy tính\ShoeStore\FrontEnd\FrontEndShoeStore\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ASUS\OneDrive\Máy tính\ShoeStore\FrontEnd\FrontEndShoeStore
+build_property.MSBuildProjectDirectory = c:\Users\ASUS\OneDrive\Máy tính\ShoeStore\FrontEnd\FrontEndShoeStore
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ASUS/OneDrive/Máy tính/ShoeStore/FrontEnd/FrontEndShoeStore/App.razor]
+[c:/Users/ASUS/OneDrive/Máy tính/ShoeStore/FrontEnd/FrontEndShoeStore/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/OneDrive/Máy tính/ShoeStore/FrontEnd/FrontEndShoeStore/Pages/Home/Index.razor]
+[c:/Users/ASUS/OneDrive/Máy tính/ShoeStore/FrontEnd/FrontEndShoeStore/Pages/Home/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxJbmRleC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/OneDrive/Máy tính/ShoeStore/FrontEnd/FrontEndShoeStore/Pages/Products/Index.razor]
+[c:/Users/ASUS/OneDrive/Máy tính/ShoeStore/FrontEnd/FrontEndShoeStore/Pages/Products/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/OneDrive/Máy tính/ShoeStore/FrontEnd/FrontEndShoeStore/Shared/Footer.razor]
+[c:/Users/ASUS/OneDrive/Máy tính/ShoeStore/FrontEnd/FrontEndShoeStore/Shared/Footer.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEZvb3Rlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/OneDrive/Máy tính/ShoeStore/FrontEnd/FrontEndShoeStore/Shared/Header.razor]
+[c:/Users/ASUS/OneDrive/Máy tính/ShoeStore/FrontEnd/FrontEndShoeStore/Shared/Header.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEhlYWRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/OneDrive/Máy tính/ShoeStore/FrontEnd/FrontEndShoeStore/Shared/MainLayout.razor]
+[c:/Users/ASUS/OneDrive/Máy tính/ShoeStore/FrontEnd/FrontEndShoeStore/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/OneDrive/Máy tính/ShoeStore/FrontEnd/FrontEndShoeStore/Shared/SurveyPrompt.razor]
+[c:/Users/ASUS/OneDrive/Máy tính/ShoeStore/FrontEnd/FrontEndShoeStore/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/OneDrive/Máy tính/ShoeStore/FrontEnd/FrontEndShoeStore/_Imports.razor]
+[c:/Users/ASUS/OneDrive/Máy tính/ShoeStore/FrontEnd/FrontEndShoeStore/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/OneDrive/Máy tính/ShoeStore/FrontEnd/FrontEndShoeStore/Pages/Error.cshtml]
+[c:/Users/ASUS/OneDrive/Máy tính/ShoeStore/FrontEnd/FrontEndShoeStore/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/OneDrive/Máy tính/ShoeStore/FrontEnd/FrontEndShoeStore/Pages/_Index.cshtml]
+[c:/Users/ASUS/OneDrive/Máy tính/ShoeStore/FrontEnd/FrontEndShoeStore/Pages/_Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
